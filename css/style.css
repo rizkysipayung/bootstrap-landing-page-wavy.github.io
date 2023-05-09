@@ -1,0 +1,46 @@
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 20px;
+  color: #eee;
+}
+.jumbotron {
+  font-family: "Montserrat";
+  padding-top: 6rem;
+  background-color: #eee;
+  color: #333;
+}
+p.lead {
+  color: rgb(0, 121, 121);
+  font-size: 20px;
+}
+#profile-photo {
+  border: 1px solid rgb(0, 121, 121);
+}
+
+#projects {
+  background-color: #eee;
+}
+
+#contact {
+  background-color: #999;
+}
+
+#contact h2 {
+  color: #333;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #333;
+}
+
+footer .btn {
+  background-color: #999;
+}
+
+section {
+  padding-top: 5rem;
+}
